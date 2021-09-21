@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "Game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorySlsbry/jest-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorySlsbry/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/CorySlsbry/jest-another-rpg#readme",
+  "devDependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^27.2.1"
+  }
+}
+
